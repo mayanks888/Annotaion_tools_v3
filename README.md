@@ -1,9 +1,8 @@
-Annotation Tool Version:3
+## Annotation Tool Version:3
 
-## Implementation in progress : highy unstable :(
 
 ### Description: 
-This is a latest version of annotation tool which focus mainly on multi object annotation with better gui interface
+This is a latest version of annotation tool which focus mainly on multi object annotation and tracking datasets with better gui interface
 
 
 ### Requirements:
