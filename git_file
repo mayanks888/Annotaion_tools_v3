@@ -1,0 +1,24 @@
+1. Cloning branch
+
+   git clone -b Mayank_Sati --single-branch https://gitlab.com/layssi/AI.git
+
+   Note :it will ask for user name and password
+
+2. check status
+
+   git status
+
+3. Add files
+
+   git add .
+
+4. commiting
+
+   git commit -m "initial commit for qatm in pytorch"
+
+5. Pushing repository
+
+   git push origin Mayank_Sati
+
+6.
+
